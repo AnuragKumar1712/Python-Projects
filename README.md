@@ -20,4 +20,4 @@ The "Python Projects" file is a comprehensive collection of various hands-on pro
 
 **Purpose:**
 
-The "Python Projects" file is intended for Python enthusiasts, students, and professionals who want to explore the versatility of Python through practical projects. It serves as both a learning resource and a portfolio of work, demonstrating the user’s proficiency in Python programming. Whether you are looking to learn new skills, reinforce your knowledge, or showcase your coding abilities, this file provides a valuable collection of projects to help you achieve your goals.
+The "Python Projects" file is intended for Python enthusiasts students, and professionals who want to explore the versatility of Python through practical projects. It serves as both a learning resource and a portfolio of work, demonstrating the user’s proficiency in Python programming. Whether you are looking to learn new skills, reinforce your knowledge, or showcase your coding abilities, this file provides a valuable collection of projects to help you achieve your goals.
