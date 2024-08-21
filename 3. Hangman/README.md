@@ -35,4 +35,4 @@ This project involves creating a Hangman game using Python, where the player tri
 5. **Game Loop:**
    - The game loop runs continuously, accepting guesses, updating the game state, and checking for win or loss conditions. The loop ends either when the word is fully guessed, in which case the player wins, or when all attempts are used up, resulting in a loss.
 
-This project is an engaging way to practice Python's core programming concepts while building a fun and interactive game. It’s suitable for beginners looking to reinforce their understanding of loops, conditional logic, and string manipulation in Python.
+This project is an engaging way to practice Python's core programming concepts while building a fun and interactive game. It’s suitable for beginners looking to reinforce their understanding of loops, conditional logic, and string manipulation in Python language.
